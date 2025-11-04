@@ -75,8 +75,7 @@ https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://localhost:5350/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://localhost:5350/live/144.m3u8
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="http://localhost:5350/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
-http://localhost:5350/live/154.m3u8
+
 #EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="http://localhost:5350/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://localhost:5350/live/173.m3u8
 #EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="http://localhost:5350/jtvimage/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha
@@ -109,24 +108,17 @@ http://localhost:5350/live/258.m3u8
 http://localhost:5350/live/279.m3u8
 #EXTINF:-1 tvg-id="288" tvg-name="Sanskar" tvg-logo="http://localhost:5350/jtvimage/Sanskar.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanskar
 http://localhost:5350/live/288.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max SD" tvg-logo="http://localhost:5350/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max SD
-http://localhost:5350/live/289.m3u8
-#EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="http://localhost:5350/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-http://localhost:5350/live/291.m3u8
+
+
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="http://localhost:5350/jtvimage/9XJalwa.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jalwa
 http://localhost:5350/live/440.m3u8
 #EXTINF:-1 tvg-id="466" tvg-name="Dharma Sandesh" tvg-logo="http://localhost:5350/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Dharma Sandesh
 http://localhost:5350/live/466.m3u8
-#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-logo="http://localhost:5350/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-http://localhost:5350/live/471.m3u8
-#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-logo="http://localhost:5350/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
-http://localhost:5350/live/474.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-logo="http://localhost:5350/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
-http://localhost:5350/live/476.m3u8
+
+
 #EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-logo="http://localhost:5350/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://localhost:5350/live/482.m3u8
-#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="http://localhost:5350/jtvimage/Sony_MAX2.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony MAX2
-http://localhost:5350/live/483.m3u8
+
 #EXTINF:-1 tvg-id="498" tvg-name="India news" tvg-logo="http://localhost:5350/jtvimage/India_news.png" tvg-language="Hindi" tvg-type="News" group-title="News", India news
 http://localhost:5350/live/498.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="News Nation" tvg-logo="http://localhost:5350/jtvimage/News_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", News Nation
