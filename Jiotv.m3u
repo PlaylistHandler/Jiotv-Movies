@@ -151,8 +151,7 @@ http://192.168.0.222:5001/live/517.m3u8
 http://192.168.0.222:5001/live/518.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-logo="http://192.168.0.222:5001/jtvimage/b4u_movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Movies
 http://192.168.0.222:5001/live/182.m3u8
-#EXTINF:-1 tvg-id="584" tvg-name="Mastiii" tvg-logo="http://192.168.0.222:5001/jtvimage/Mastiii.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Mastiii
-http://192.168.0.222:5001/live/584.m3u8
+
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="http://192.168.0.222:5001/jtvimage/9xm.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
 http://192.168.0.222:5001/live/587.m3u8
 
