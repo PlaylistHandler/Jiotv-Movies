@@ -26,131 +26,129 @@ smb://192.168.0.222/NAS-server/Movies/Bollywood/Madari (2016).mkv
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Mitron (2018).mkv                   
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIyNzdlZDctY2RjMi00YmY2LTkzMTktODRkYWJiOGQ3ZTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Namastey_London                                 
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Namastey_London.mp4       
-#EXTINF:-1 tvg-logo="",                                           
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpiDfbptvAAwVNT8XT5qeUC8Fc7I5z57PFQ&s",One Night Stand                                           
 smb://192.168.0.222/NAS-server/Movies/Bollywood/One Night Stand.mkv               
-#EXTINF:-1 tvg-logo="",                                   
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MTIwODQtMWQzNC00NGU4LTgwMjUtNGZjZDgxZGFlMDU3XkEyXkFqcGc@._V1_.jpg",Padman                                   
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Padman.mp4               
-#EXTINF:-1 tvg-logo="",                                            
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc2MTMyN2QtZjNmYy00ZmIyLTg1MWMtYzAyODIxNTViNTkyXkEyXkFqcGc@._V1_.jpg",Phir.Hera.Pheri                                            
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Phir.Hera.Pheri. 2006.mp4       
-#EXTINF:-1 tvg-logo="",                                     
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY0NWI0NmQtMjhiYi00ZjM4LWJhNjMtOGRkOTc0ZjI5M2ZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Pink                                     
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Pink_2016.mp4       
-#EXTINF:-1 tvg-logo="",                                                 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM2ZDM0N2YtOWFiNS00OGYzLWI0ZmItNTVkOWVkYzliNjAwXkEyXkFqcGc@._V1_.jpg",Raaz_Reboot                                                 
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Raaz_Reboot_2016.mp4       
-#EXTINF:-1 tvg-logo="",                                          
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ4YWViNTgtOWM4OC00Y2VlLThhN2EtMjIxMzRmMjkwMDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Ramleela                                          
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ramleela (2013).mkv
-#EXTINF:-1 tvg-logo="",                                                  
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE0OTE0ODUtY2Q0ZS00NDQxLTlhMmItYjM1MmI3MDVkMjNhXkEyXkFqcGc@._V1_.jpg",Satyamev jayate                                                  
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Satyamev jayate.mp4        
-#EXTINF:-1 tvg-logo="",                                          
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQzYzFiODYtNjdlZC00NTA3LThhZWItZDJlN2ZhNGE3ZWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Shubh Mangal Saavdhan                                          
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Shubh Mangal Saavdhan 2017.mkv  
-#EXTINF:-1 tvg-logo="",                                     
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY3MTU5NTItZTk3Yy00MzZkLTk0MDQtMjQxYjVhZTYzZWU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Simmba                                     
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Simmba (2018).mkv      
-#EXTINF:-1 tvg-logo="",                                              
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODhiZjI1MDMtZjFjOS00NjZiLWI5N2YtZTM2NWIxNmE3MjMzXkEyXkFqcGc@._V1_.jpg",Stree                                              
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Stree.mp4                   
-#EXTINF:-1 tvg-logo="",                                         
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIzNDgwMWItYWI0Yi00NjA2LWFmNWYtZmRkYTYxOWE4ODE5XkEyXkFqcGc@._V1_.jpg",Style                                         
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Style (2001).mp4      
-#EXTINF:-1 tvg-logo="",                                               
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVhNzA2YmMtYzQ1YS00MjJmLWFkZmYtOTE1NTViODc2ODc3XkEyXkFqcGc@._V1_.jpg",Sui Dhaaga Made In India                                               
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Sui Dhaaga Made In India.mp4            
-#EXTINF:-1 tvg-logo="",                             
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAxODQ2NDEwOTZeQTJeQWpwZ15BbWU4MDk5MDM3NjIy._V1_.jpg",Toilet - Ek prem katha                             
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Toilet - Ek prem katha.mkv                   
-#EXTINF:-1 tvg-logo="",                        
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNlMWU3NjUtOTBiMy00MTk4LWExOGUtOTMyNWFkM2MzZmRhXkEyXkFqcGc@._V1_.jpg",Tummbad                        
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Tummbad.mp4    
-#EXTINF:-1 tvg-logo="",                                                      
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTllN2U1MDEtNmRhZC00ZmU0LTk1ZDUtODlkZGQyZTNiOTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Sanju                                                      
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Sanju.mkv     
-#EXTINF:-1 tvg-logo="",                                                       
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMxMjdmYjQtYmZjZC00NGVkLTk1YzQtOTkzZTVmNTg0NDg0XkEyXkFqcGc@._V1_.jpg",Parmanu                                                       
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Parmanu [2018].mkv      
-#EXTINF:-1 tvg-logo="",                                             
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE5NTJhYTEtNWM3Ny00YzAyLWI3OTUtMmY2ZTFhZGZhNDVlXkEyXkFqcGc@._V1_.jpg",Hate Story 4                                             
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Hate Story 4.mkv         
-#EXTINF:-1 tvg-logo="",                                            
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgyNWUxNjItYTgxNi00ZDMzLThiMGItYjVlMjQ4NzkzOThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Om Shanti Om                                            
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Om Shanti Om.mkv       
-#EXTINF:-1 tvg-logo="",                                              
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljNjlhNWUtYmRkZi00NDRhLWJlNTgtMDE5MjQxZDY4ZTkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Gold                                              
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Gold [2018].mkv          
-#EXTINF:-1 tvg-logo="",                                            
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFjMzMxNDMtYWY0ZC00MWIyLTk0YjktM2ViZmVhZDE4ZmRiXkEyXkFqcGc@._V1_.jpg",Dilwale                                            
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Dilwale.2015.mp4              
-#EXTINF:-1 tvg-logo="",                                       
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVlNWU3ZGEtOGMwMC00NTlhLWFmZTYtZjQxNTVmN2QxMWFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",R...Rajkumar                                        
 smb://192.168.0.222/NAS-server/Movies/Bollywood/R... Rajkumar (2013).avi      
-#EXTINF:-1 tvg-logo="",                                       
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4NzEzODQ3NV5BMl5BanBnXkFtZTcwMDMzMjg3OA@@._V1_.jpg",RACE 2                                       
 smb://192.168.0.222/NAS-server/Movies/Bollywood/RACE 2 2013.mp4 
-#EXTINF:-1 tvg-logo="",                                                     
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI1NTRmMWQtNDJlZC00MGIzLWEwYzctYTQwNTI2NWNjM2MwXkEyXkFqcGc@._V1_.jpg",Sholay                                                     
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Sholay.mkv 
-#EXTINF:-1 tvg-logo="",                                                          
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Table No 21                                                          
 -smb://192.168.0.222/NAS-server/Movies/Bollywood/Table No 21.mkv   
-#EXTINF:-1 tvg-logo="",                                                   
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWVjMjQ3ZjctNTkzNy00NDBlLTgwYWMtMzQzZTQ2MzRkOWZkXkEyXkFqcGc@._V1_.jpg",Tere Naam                                                   
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Tere Naam.mkv 
-#EXTINF:-1 tvg-logo="",                                                       
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNlZWZiZDEtZjM5Yy00Y2FlLTg5YzEtOGFkY2VjZGNlZTIzXkEyXkFqcGc@._V1_.jpg",URI The Surgical Strike                                                       
 smb://192.168.0.222/NAS-server/Movies/Bollywood/URI The Surgical Strike (2019).mp4       
-#EXTINF:-1 tvg-logo="",                            
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjNDBiZGQtYjBjMS00N2Q3LWFkNmMtOTMzYzc1NjEzY2IxXkEyXkFqcGc@._V1_.jpg",Kedarnath                            
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Kedarnath.mp4                                                        
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmNWE5NTgtNzkzNS00Y2RhLWJjOWItN2I3OTdkODJmYTU1XkEyXkFqcGc@._V1_.jpg",Total Dhammal
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Total Dhammal.mp4                                                    
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUyYzA3MGQtNzE0Zi00Nzg0LTk4NTAtNDQ3YWQ4M2IwMWYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Kesari
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Kesari.mp4                                                           
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZhY2NjMGItODAyOS00MGVlLTk5ZDYtNzBjMjQ3ZDdkYmZmXkEyXkFqcGc@._V1_.jpg",Bhool Bhulaiyaa 2 
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Bhool Bhulaiyaa 2 (2022).mkv                                         
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY5Y2QxNDQtNmFlNi00M2NhLWI5ZjktZDk3MWYzZDcxZTI0XkEyXkFqcGc@._V1_.jpg",Hichki
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Hichki.2018.mkv                                                      
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY5OGY1NDgtN2IyMC00NmMzLWI5NzEtN2JlODE2N2Y1NWRlXkEyXkFqcGc@._V1_.jpg",HINDI MEDIUM
 smb://192.168.0.222/NAS-server/Movies/Bollywood/HINDI MEDIUM.mkv                                                     
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzNzYzNzctNWIyNC00NDRhLWFkNGMtMzYxOTA2ZjgwYzFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Dream Girl 2
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Dream Girl 2.mkv                                                     
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg0NGI0MTktM2Q5NS00OWYwLThmOTUtODQ5NmYxYzE2ZDNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Angrezi Medium
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Angrezi Medium (2020).mkv                                            
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWFhNTg2YTgtZjZjNi00ZDAwLWJjYmMtODc1MTk4ZjgwNjhkXkEyXkFqcGc@._V1_.jpg",Dangal
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Dangal.mp4                                                           
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiNjg0NjEtZDIwMi00MDZhLTg0NjItNjFjZGQxNmE4NzEzXkEyXkFqcGc@._V1_.jpg",Ki.&.Ka
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ki.&.Ka.mp4                                                          
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY4MDNmZDgtYjYzZS00YTc5LTgwYTYtNTY4MjgyNWRmNTkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Lage Raho Munna Bhai
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Lage Raho Munna Bhai.mp4  
-#EXTINF:-1 tvg-logo="",                                           
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViODhhNDEtNzA5Zi00NDFlLTg1YzktMGFhMjYyOGNiZWMwXkEyXkFqcGc@._V1_.jpg",Jabriya Jodi                                           
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Jabriya Jodi.mkv                                                     
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc1ZmM5OGMtNTRkNS00Mzc2LTg2ODItMGY3ZWZhZjJlZTM5XkEyXkFqcGc@._V1_.jpg",Tiger Zinda Hai
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Tiger Zinda Hai.mkv                                                  
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ZWYzMjItYzEwMS00YTA5LWEwMmQtOGNlMzNkNDExZDEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Shubh Mangal Zyada Saavdhan
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Shubh Mangal Zyada Saavdhan 2020.mkv                                 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODJmMTRlYzYtOWU5Yi00YjQ4LTliNzEtZGE5OWVjMzg4NjRiXkEyXkFqcGc@._V1_.jpg",Singh Is Kinng
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Singh Is Kinng.avi                                                   
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRiNGM1MWEtYzYzOC00NWIxLTg0MjktNzZhZmVkZTVmMTJjXkEyXkFqcGc@._V1_.jpg",Namaste England
 smb://192.168.0.222/NAS-server/Movies/Bollywood/NamasteEngland.mp4                                                   
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODRhYWZmYjktOTAyOC00MGNmLThjMWEtOTAzY2ZlNWIxNzAyXkEyXkFqcGc@._V1_.jpg",Why-Cheat-India
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Why-Cheat-India.mp4                                                  
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU4ZGU3N2ItYmFkOS00NjdhLTlhMDgtODJjZTQwNmFiNWI4XkEyXkFqcGc@._V1_.jpg",Tanu-Weds-Manu
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Tanu-Weds-Manu.mkv                                                   
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1NDI5MjMzNF5BMl5BanBnXkFtZTcwMTc0MDQwOQ@@._V1_.jpg",Special-26
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Special-26 (2013).mkv
-#EXTINF:-1 tvg-logo="",                                                
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q4MzViZDktZTQxYi00OGQ2LWI5OTYtOTU0ZmRmNDUxMDM0XkEyXkFqcGc@._V1_.jpg",Soorma                                                
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Soorma[2018].mp4                                                     
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QwNzVjN2YtNTU3Mi00ZjkyLTkzYzQtN2U3Nzc0ZmQyNjAzXkEyXkFqcGc@._V1_.jpg",Sonu-Ke-Titu-Ki-Sweety
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Sonu-Ke-Titu-Ki-Sweety.mp4                                           
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0MTI1ODYyNl5BMl5BanBnXkFtZTcwMTM2NzM4OQ@@._V1_FMjpg_UX1000_.jpg",Ramaiya-Vastavaiya
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ramaiya-Vastavaiya-(2013).mkv                                        
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyNTU1OTk2Nl5BMl5BanBnXkFtZTcwMjU5NTk5Mw@@._V1_.jpg",Race
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Race-[2008].mkv                                                      
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxNDY5NjA5NV5BMl5BanBnXkFtZTgwNjcyMTk5NjE@._V1_FMjpg_UX1000_.jpg",Pyaar-Ka-Punchnama-2
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Pyaar-Ka-Punchnama-2-(2015).mkv                                      
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWEyY2NkYmMtMGQ4Ni00ZTgzLThhNDMtNmI3ZTI5MDJiY2EyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Luka-Chuppi
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Luka-Chuppi-[2019].mp4                                               
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY2NmEzZTUtMTZmYS00MGE2LWFmNmQtY2U2ZTA5ZjlkOTc2XkEyXkFqcGc@._V1_.jpg",Loveyatri
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Loveyatri [2018].mkv                                                 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGI1Y2UwNmQtMmE4MS00ZmVhLTg3YzgtYTg3NGUzOTI5NjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Bhool-Bhulaiyaa
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Bhool-Bhulaiyaa(2007).mkv                                            
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWFkY2M3NDctZGEzMS00M2VmLTgzMTAtZWFiNjVmZDc5NWFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Gully-Boy
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Gully-Boy.mp4                                                        
-#EXTINF:-1 tvg-logo="",
-smb://192.168.0.222/NAS-server/Movies/Bollywood/Junglee.mp4                                                          
-#EXTINF:-1 tvg-logo="",
-smb://192.168.0.222/NAS-server/Movies/Bollywood/Simmba.mp4                                                           
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk1MzE3ZWMtY2Q4Yi00NDhjLTk5MTAtOWE3YjJmYTE3MmNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Junglee
+smb://192.168.0.222/NAS-server/Movies/Bollywood/Junglee.mp4                                                                                                                    
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YmUwMDUtMGI1Ny00MGU1LWJmODYtYmY1NzAxZmNmY2Y3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Ek-Tha-Tiger
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ek-Tha-Tiger[2012].mkv                                               
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTNjM2M2YjktMzM0Yi00MjU5LTgzNzgtMmVkMjRlY2RlZmVjXkEyXkFqcGc@._V1_.jpg",Ek.Ladki.Ko.Dekha.Toh.Aisa.Laga
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Ek.Ladki.Ko.Dekha.Toh.Aisa.Laga.mp4                                  
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Fashion_film.jpg/250px-Fashion_film.jpg",Fashion
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Fashion[2008].mkv                                                    
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMwZTM3YzEtNzgzMi00YmI3LTkxN2EtZDY1OGM0MDQ2Y2NkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Golmaal
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Golmaal.mkv                                                          
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4YTk1ODMtYTBlZC00ODMxLTgxNjctNDQ2OTA3NzcyYjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Half Girlfriend
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Half Girlfriend (2017).mkv                                           
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY0MDZjOTYtNTZhNi00NzU2LWFkMjEtYjRlZTk4N2Q4YmVhXkEyXkFqcGc@._V1_.jpg",Hamari.Adhuri.Kahani
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Hamari.Adhuri.Kahani.2015.mp4                                        
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGUxMDY4NGQtMzdmMC00MDNhLWE4OWItMjU3YzgxNjdlN2Q4XkEyXkFqcGc@._V1_.jpg",Heyy-Babyy
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Heyy-Babyy 2007.mkv                                                  
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0YTBjYzUtMGI5OC00YTY0LWEzYWMtYTZiM2I0YTlhNGUzXkEyXkFqcGc@._V1_.jpg",Jab We Met
 smb://192.168.0.222/NAS-server/Movies/Bollywood/Jab We Met (2007).mkv                                                
