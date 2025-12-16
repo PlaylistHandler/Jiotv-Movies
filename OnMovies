@@ -1,30 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZmY2FmODktYzNjNS00ODA1LWI5YzktODI1MWZkODgxNGE1XkEyXkFqcGc@._V1_.jpg",Pathaan
-https://pixeldrain.dev/api/file/QvwWEqvr
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2MjQwZmQtMWQ5ZS00NmYwLWEwZmMtZmM1ZWM3MGMzOGU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg:,Aashiqui 2
-https://pixeldrain.dev/api/file/tWFUu5XJ
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q2NmRhMDEtODliMi00ZmE5LTkyN2EtODJlMGZhYzkzNTRmXkEyXkFqcGc@._V1_.jpg",Shivaay
-https://pixeldrain.dev/api/file/rELBo3w1
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI1NTRmMWQtNDJlZC00MGIzLWEwYzctYTQwNTI2NWNjM2MwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",Sholay
-https://pixeldrain.dev/api/file/GtWA284Q
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjkwNDM0NzM0Nl5BMl5BanBnXkFtZTgwMTQ3ODkwMzE@._V1_.jpg",Hulchul
-https://pixeldrain.dev/api/file/374E93pe
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyODE5NzQ2MV5BMl5BanBnXkFtZTgwOTM5OTk1MDE@._V1_.jpg",Qayamat
-https://pixeldrain.dev/api/file/jKFFQyaQ
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4ZGVhZmItMDZmMS00OTBkLWE0N2QtODczZjdmODA0Yzc2XkEyXkFqcGc@._V1_.jpg",Tiger 3
-https://pixeldrain.dev/api/file/h8Ndm5kc
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE2ZTA1YzktNDU1ZC00ZWIyLWI5M2ItMDNhYjlkOTJkNDg2XkEyXkFqcGc@._V1_.jpg",Raja Natwarlal 
-https://pixeldrain.dev/api/file/CKaD9hXf
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZjODlkNWItMTc1ZC00YWQ5LTg0OWYtZDQ3ZTQ2NzcxMWNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Once Upon a Time In Mumbaai
-https://pixeldrain.dev/api/file/7TPRZfZ3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Murder_2_Hindi_Movie_Poster.jpg/250px-Murder_2_Hindi_Movie_Poster.jpg",Murder 2
-https://pixeldrain.dev/api/file/2Nrp5HUZ
-#EXTINF:-1 tvg-logo="",Awarapan
+#EXTINF:-1 tvg-id="Awarapan_2007" tvg-name="Awarapan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU1MTk3NGItYjg3Mi00ODg1LTliOTgtNjUzM2UzMGY4MjQyXkEyXkFqcGc@._V1_.jpg" group-title="Action | Crime | Drama" tvg-shift="Emraan Hashmi, Shriya Saran" imdb-rating="8.0",Awarapan
 https://pixeldrain.dev/api/file/52Bb3pR1
-#EXTINF:-1 tvg-logo="",Singham
+#EXTINF:-1 tvg-id="Singham_2011" tvg-name="Singham" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YzcyOTItYzYwMy00YjM5LTkyZjQtYzgzOTVlOTIyYjk4XkEyXkFqcGc@._V1_.jpg" group-title="Action | Drama" tvg-shift="Ajay Devgn, Kajal Aggarwal, Prakash Raj" imdb-rating="6.7",Singham
 https://pixeldrain.dev/api/file/W6DSjnwC
-#EXTINF:-1 tvg-logo="",Had Kar Di Aapne
+#EXTINF:-1 tvg-id="Had_Kar_Di_Aapne_2000" tvg-name="Had Kar Di Aapne" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4NzI3MDUzNV5BMl5BanBnXkFtZTgwNTQ0MDE5MDI@._V1_.jpg" group-title="Comedy | Romance" tvg-shift="Govinda, Rani Mukerji, Johny Lever" imdb-rating="5.4",Had Kar Di Aapne
 https://pixeldrain.dev/api/file/5vS24mKM
-#EXTINF:-1 tvg-logo="",Welcome
+#EXTINF:-1 tvg-id="Welcome_2007" tvg-name="Welcome" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4NzUyMzYwMV5BMl5BanBnXkFtZTcwMjg4MzYwNA@@._V1_.jpg" group-title="Comedy | Action | Romance" tvg-shift="Akshay Kumar, Katrina Kaif, Nana Patekar" imdb-rating="6.9",Welcome
 https://pixeldrain.dev/api/file/4fwa9wK8
-
+#EXTINF:-1 tvg-id="Bhagam_Bhag_2006" tvg-name="Bhagam Bhag" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc4MTJjZTEtYjY4YS00ZDM3LThjMjEtYjc0MTM3NmY4NWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Action | Comedy | Crime" tvg-shift="Akshay Kumar, Govinda, Lara Dutta, Paresh Rawal" imdb-rating="6.8",Bhagam Bhag
+https://pixeldrain.dev/api/file/GXK8nyEt
+#EXTINF:-1 tvg-id="Housefull_3_2016" tvg-name="Housefull 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWRmOGE5ODctY2RhZC00NTk4LWE4YmItNjUwNmE2MDFmODVkXkEyXkFqcGc@._V1_.jpg" group-title="Action | Comedy | Romance" tvg-shift="Akshay Kumar, Riteish Deshmukh, Abhishek Bachchan" imdb-rating="5.1",Housefull 3
+https://pixeldrain.dev/api/file/xxFf6kVv
+#EXTINF:-1 tvg-id="Baaghi_2016" tvg-name="Baaghi" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NTY0ODcyOF5BMl5BanBnXkFtZTgwNTgxOTIxODE@._V1_FMjpg_UX1000_.jpg" group-title="Action | Romance" tvg-shift="Tiger Shroff, Shraddha Kapoor, Sudheer Babu Posani" imdb-rating="5.2",Baaghi
+https://pixeldrain.dev/api/file/5iH5zhof
+#EXTINF:-1 tvg-id="Dhoom_2_2006" tvg-name="Dhoom 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4MjE3MTA5Nl5BMl5BanBnXkFtZTcwNzU3MjAzMQ@@._V1_.jpg" group-title="Action | Crime | Thriller" tvg-shift="Hrithik Roshan, Abhishek Bachchan, Aishwarya Rai Bachchan" imdb-rating="7.1",Dhoom 2
+https://pixeldrain.dev/api/file/jkkf9nGP
+#EXTINF:-1 tvg-id="Pathaan_2023" tvg-name="Pathaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZmY2FmODktYzNjNS00ODA1LWI5YzktODI1MWZkODgxNGE1XkEyXkFqcGc@._V1_.jpg" group-title="Action | Thriller" tvg-shift="Shah Rukh Khan, Deepika Padukone, John Abraham" imdb-rating="5.9",Pathaan
+https://pixeldrain.dev/api/file/QvwWEqvr
+#EXTINF:-1 tvg-id="Aashiqui_2_2013" tvg-name="Aashiqui 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M2MjQwZmQtMWQ5ZS00NmYwLWEwZmMtZmM1ZWM3MGMzOGU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Drama | Music | Romance" tvg-shift="Aditya Roy Kapur, Shraddha Kapoor, Shaad Randhawa" imdb-rating="7.0",Aashiqui 2
+https://pixeldrain.dev/api/file/tWFUu5XJ
+#EXTINF:-1 tvg-id="Shivaay_2016" tvg-name="Shivaay" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q2NmRhMDEtODliMi00ZmE5LTkyN2EtODJlMGZhYzkzNTRmXkEyXkFqcGc@._V1_.jpg" group-title="Action | Adventure | Drama" tvg-shift="Ajay Devgn, Erika Kaar, Sayyeshaa" imdb-rating="6.1",Shivaay
+https://pixeldrain.dev/api/file/rELBo3w1
+#EXTINF:-1 tvg-id="Sholay_1975" tvg-name="Sholay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI1NTRmMWQtNDJlZC00MGIzLWEwYzctYTQwNTI2NWNjM2MwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Action | Adventure | Comedy" tvg-shift="Dharmendra, Amitabh Bachchan, Hema Malini, Sanjeev Kumar" imdb-rating="8.1",Sholay
+https://pixeldrain.dev/api/file/GtWA284Q
+#EXTINF:-1 tvg-id="Hulchul_2004" tvg-name="Hulchul" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjkwNDM0NzM0Nl5BMl5BanBnXkFtZTgwMTQ3ODkwMzE@._V1_.jpg" group-title="Comedy | Drama | Romance" tvg-shift="Akshaye Khanna, Kareena Kapoor, Sunil Shetty" imdb-rating="6.8",Hulchul
+https://pixeldrain.dev/api/file/374E93pe
+#EXTINF:-1 tvg-id="Qayamat_City_Under_Threat_2003" tvg-name="Qayamat: City Under Threat" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyODE5NzQ2MV5BMl5BanBnXkFtZTgwOTM5OTk1MDE@._V1_.jpg" group-title="Action | Crime | Thriller" tvg-shift="Ajay Devgn, Sunil Shetty, Neha Dhupia" imdb-rating="6.4",Qayamat
+https://pixeldrain.dev/api/file/jKFFQyaQ
+#EXTINF:-1 tvg-id="Tiger_3_2023" tvg-name="Tiger 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4ZGVhZmItMDZmMS00OTBkLWE0N2QtODczZjdmODA0Yzc2XkEyXkFqcGc@._V1_.jpg" group-title="Action | Adventure | Thriller" tvg-shift="Salman Khan, Katrina Kaif, Emraan Hashmi" imdb-rating="6.2",Tiger 3
+https://pixeldrain.dev/api/file/h8Ndm5kc
+#EXTINF:-1 tvg-id="Raja_Natwarlal_2014" tvg-name="Raja Natwarlal" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE2ZTA1YzktNDU1ZC00ZWIyLWI5M2ItMDNhYjlkOTJkNDg2XkEyXkFqcGc@._V1_.jpg" group-title="Crime | Thriller" tvg-shift="Emraan Hashmi, Humaima Malik, Paresh Rawal" imdb-rating="6.4",Raja Natwarlal
+https://pixeldrain.dev/api/file/CKaD9hXf
+#EXTINF:-1 tvg-id="Once_Upon_a_Time_In_Mumbaai_2010" tvg-name="Once Upon a Time in Mumbaai" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZjODlkNWItMTc1ZC00YWQ5LTg0OWYtZDQ3ZTQ2NzcxMWNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Action | Crime | Drama" tvg-shift="Ajay Devgn, Emraan Hashmi, Kangana Ranaut" imdb-rating="7.4",Once Upon a Time In Mumbaai
+https://pixeldrain.dev/api/file/7TPRZfZ3
+#EXTINF:-1 tvg-id="Murder_2_2011" tvg-name="Murder 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Murder_2_Hindi_Movie_Poster.jpg/250px-Murder_2_Hindi_Movie_Poster.jpg" group-title="Crime | Drama | Thriller" tvg-shift="Emraan Hashmi, Jacqueline Fernandez, Prashant Narayanan" imdb-rating="6.0",Murder 2
+https://pixeldrain.dev/api/file/2Nrp5HUZ
+#EXTINF:-1 tvg-id="Gabbar_Is_Back_2015" tvg-name="Gabbar Is Back" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4MmFkNjctNWY0ZC00NWYzLWFhNDItNmE2OGNkMjdkZDc3XkEyXkFqcGc@._V1_.jpg" group-title="Action | Crime | Drama" tvg-shift="Akshay Kumar, Shruti Haasan, Suman Talwar" imdb-rating="6.3",Gabbar Is Back
+https://pixeldrain.dev/api/file/8hUe3aqZ?download
+#EXTINF:-1 tvg-id="Crook_It's_Good_To_Be_Bad_2010" tvg-name="Crook: It's Good To Be Bad" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNzkxODIyNl5BMl5BanBnXkFtZTcwNzU3NDQyNA@@._V1_.jpg" group-title="Action | Crime | Drama" tvg-shift="Emraan Hashmi, Neha Sharma, Arjan Bajwa" imdb-rating="4.8",Crook
+https://pixeldrain.dev/api/file/f1M3Kqp2?download
+#EXTINF:-1 tvg-id="Thamma_2025" tvg-name="Thamma" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE1MzIzNDgtNTE5Mi00NDM0LWI5OWYtYjUwOTNhOTZlMDYwXkEyXkFqcGc@._V1_.jpg" group-title="Fantasy | Romance" tvg-shift="Varun Dhawan, Manushi Chhillar" imdb-rating="N/A",Thamma
+https://pixeldrain.dev/api/file/t8JyZHEM?download
+#EXTINF:-1 tvg-id="Om_Jai_Jagadish_2002" tvg-name="Om Jai Jagadish" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY5MzMyZDYtNzA5Mi00YjczLTk2ZTMtZmFlNWQ5OGIxY2FlXkEyXkFqcGc@._V1_.jpg" group-title="Comedy | Drama | Family" tvg-shift="Anil Kapoor, Fardeen Khan, Abhishek Bachchan, Waheeda Rehman" imdb-rating="5.8",Om Jai Jagadish
+https://pixeldrain.dev/api/file/sBZCQ989?download
+#EXTINF:-1 tvg-id="Tumko_Na_Bhool_Paayenge_2002" tvg-name="Tumko Na Bhool Paayenge" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgwNDI3YzYtM2JjZS00Y2NhLWJiNDYtYjlkNTY4MTM5NTNmXkEyXkFqcGc@._V1_.jpg" group-title="Action | Drama | Mystery" tvg-shift="Salman Khan, Sushmita Sen, Dia Mirza" imdb-rating="5.3",Tumko Na Bhool Paayenge
+https://pixeldrain.dev/api/file/3o5C7AiS?download
+#EXTINF:-1 tvg-id="Humko_Deewana_Kar_Gaye_2006" tvg-name="Humko Deewana Kar Gaye" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY5OTk4NDc1NF5BMl5BanBnXkFtZTcwNDY2NjA0MQ@@._V1_.jpg" group-title="Drama | Romance" tvg-shift="Akshay Kumar, Katrina Kaif, Anil Kapoor, Bipasha Basu" imdb-rating="5.4",Humko Deewana Kar Gaye
+https://pixeldrain.dev/api/file/Z6PhCA8j?download
+#EXTINF:-1 tvg-id="Anjaana_Anjaani_2010" tvg-name="Anjaana Anjaani" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3OTgzNjcyNV5BMl5BanBnXkFtZTcwNDcyNTE4NA@@._V1_.jpg" group-title="Drama | Romance" tvg-shift="Ranbir Kapoor, Priyanka Chopra, Zayed Khan" imdb-rating="5.7",Anjaana Anjaani
+https://pixeldrain.dev/api/file/UjsVhzbw?download
+#EXTINF:-1 tvg-id="Aa_Ab_Laut_Chalen_1999" tvg-name="Aa Ab Laut Chalen" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExMjc5MDkzNDZeQTJeQWpwZ15BbWU4MDIwNTAxNDEx._V1_.jpg" group-title="Drama | Musical | Romance" tvg-shift="Akshaye Khanna, Aishwarya Rai Bachchan, Rajesh Khanna" imdb-rating="5.5",Aa Ab Laut Chalen
+https://pixeldrain.dev/api/file/f4gUnb6g?download
+#EXTINF:-1 tvg-id="The_Lunchbox_2013" tvg-name="The Lunchbox" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwMjgyNjk5NF5BMl5BanBnXkFtZTcwMTc1NDQ0Nw@@._V1_.jpg" group-title="Drama | Romance" tvg-shift="Irrfan Khan, Nimrat Kaur, Lillete Dubey" imdb-rating="7.8",The Lunchbox
+https://pixeldrain.dev/api/file/CGMM8MJJ?download
+#EXTINF:-1 tvg-id="Hum_Tum_2004" tvg-name="Hum Tum" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1OTU5NDMzOF5BMl5BanBnXkFtZTcwMTE3Mjg2MQ@@._V1_.jpg" group-title="Comedy | Drama | Romance" tvg-shift="Saif Ali Khan, Rani Mukerji, Kirron Kher" imdb-rating="6.8",Hum Tum
+https://pixeldrain.dev/api/file/cKdHrNXD?download
+#EXTINF:-1 tvg-id="Sunny_Sanskari_Ki_Tulsi_Kumari_2025" tvg-name="Sunny Sanskari Ki Tulsi Kumari" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y2Y2RiMmEtMTNkZi00YmU0LWJjYjktZDY3YmY1NjFhNmE2XkEyXkFqcGc@._V1_.jpg" group-title="Comedy | Romance" tvg-shift="Varun Dhawan, Janhvi Kapoor" imdb-rating="N/A",Sunny Sanskari Ki Tulsi Kumari
+https://pixeldrain.dev/api/file/PBaR3vT8?download
+#EXTINF:-1 tvg-id="Kantara_Chapter_1_2025" tvg-name="Kantara: Chapter 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ1MTRkYTItZTk2Yy00ZjAxLWIyZTAtNWY3ZTc2Nzc5ODAzXkEyXkFqcGc@._V1_.jpg" group-title="Action | Drama | Fantasy" tvg-shift="Rishab Shetty" imdb-rating="N/A",Kantara: Chapter 1
+https://pixeldrain.dev/api/file/5sJCuzWK?download
+#EXTINF:-1 tvg-id="Force_2_2016" tvg-name="Force 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ4NTA3NzYwNF5BMl5BanBnXkFtZTgwNzY1NjAwOTE@._V1_.jpg" group-title="Action | Crime | Thriller" tvg-shift="John Abraham, Sonakshi Sinha, Tahir Raj Bhasin" imdb-rating="6.1",Force 2
+https://pixeldrain.dev/api/file/YPXW8qRQ?download
+#EXTINF:-1 tvg-id="Ladies_vs_Ricky_Bahl_2011" tvg-name="Ladies vs. Ricky Bahl" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U5ZDY4ZDktYjcxZC00ZWE1LWJmMjUtY2I3Y2JmZDNkYzM4XkEyXkFqcGc@._V1_.jpg" group-title="Comedy | Romance" tvg-shift="Ranveer Singh, Anushka Sharma, Parineeti Chopra" imdb-rating="6.1",Ladies vs. Ricky Bahl
+https://pixeldrain.dev/api/file/FRP1HXyw?download
+#EXTINF:-1 tvg-id="Tanu_Weds_Manu_2011" tvg-name="Tanu Weds Manu" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU4ZGU3N2ItYmFkOS00NjdhLTlhMDgtODJjZTQwNmFiNWI4XkEyXkFqcGc@._V1_.jpg" group-title="Comedy | Drama | Romance" tvg-shift="Madhavan, Kangana Ranaut, Jimmy Sheirgill" imdb-rating="7.1",Tanu Weds Manu
+https://pixeldrain.dev/api/file/miK5rRVr?download
+#EXTINF:-1 tvg-id="Haunted_3D_2011" tvg-name="Haunted 3D" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcxNTdiODItNDNjZC00Y2JmLTk5MzQtZTIxZGJlZmI3MDBmXkEyXkFqcGc@._V1_.jpg" group-title="Horror | Musical | Romance" tvg-shift="Mahaakshay Chakraborty, Tia Bajpai, Achint Kaur" imdb-rating="4.8",Haunted 3D
+https://pixeldrain.dev/api/file/hXumAoKH?download
+#EXTINF:-1 tvg-id="Heropanti_2014" tvg-name="Heropanti" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3Y2M3N2ItNGY4Ny00YmU4LWEzYzEtNzIwYTUyNzQxNDRjXkEyXkFqcGc@._V1_.jpg" group-title="Action | Romance" tvg-shift="Tiger Shroff, Kriti Sanon, Prakash Raj" imdb-rating="5.1",Heropanti
+https://pixeldrain.dev/api/file/VfCuptjt?download
+#EXTINF:-1 tvg-id="Singham_Returns_2014" tvg-name="Singham Returns" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjgwOTkxMzg1M15BMl5BanBnXkFtZTgwNTQzNzgyMjE@._V1_.jpg" group-title="Action | Crime | Drama" tvg-shift="Ajay Devgn, Kareena Kapoor, Amol Gupte" imdb-rating="5.8",Singham Returns
+https://pixeldrain.dev/api/file/x25k596t?download
+#EXTINF:-1 tvg-id="Yaariyan_2014" tvg-name="Yaariyan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MzY5MzQ3NV5BMl5BanBnXkFtZTgwNDQ1MjY1MDE@._V1_.jpg" group-title="Comedy | Romance" tvg-shift="Himansh Kohli, Rakul Preet Singh, Nicole Faria" imdb-rating="3.5",Yaariyan
+https://pixeldrain.dev/api/file/dzxRDqqh?download
+#EXTINF:-1 tvg-id="Bad_Newz_2024" tvg-name="Bad Newz" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU4N2U4MDQtYjQzMS00YzE0LThjMzgtZDAxY2M5MTU0NmY2XkEyXkFqcGc@._V1_.jpg" group-title="Comedy | Drama" tvg-shift="Vicky Kaushal, Triptii Dimri, Ammy Virk" imdb-rating="N/A",Bad Newz
+https://pixeldrain.dev/api/file/ZF8FmWSk?download
+#EXTINF:-1 tvg-id="Desi_Boyz_2011" tvg-name="Desi Boyz" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3NzgyNjY5MF5BMl5BanBnXkFtZTcwMTU1NDg1Nw@@._V1_.jpg" group-title="Comedy | Drama | Romance" tvg-shift="Akshay Kumar, John Abraham, Deepika Padukone, Chitrangada Singh" imdb-rating="5.8",Desi Boyz
+https://pixeldrain.dev/api/file/5QKffxSk?download
+#EXTINF:-1 tvg-id="Race_2_2013" tvg-name="Race 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4NzEzODQ3NV5BMl5BanBnXkFtZTcwMDMzMjg3OA@@._V1_.jpg" group-title="Action | Crime | Thriller" tvg-shift="Saif Ali Khan, Deepika Padukone, John Abraham, Anil Kapoor" imdb-rating="5.3",Race 2
+https://pixeldrain.dev/api/file/e5VCLcKy?download
+#EXTINF:-1 tvg-id="Raanjhanaa_2013" tvg-name="Raanjhanaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3NDgyMjQxMF5BMl5BanBnXkFtZTcwNTI3NTk3OQ@@._V1_.jpg" group-title="Drama | Romance" tvg-shift="Dhanush, Sonam Kapoor, Abhay Deol" imdb-rating="7.6",Raanjhanaa
+https://pixeldrain.dev/api/file/8s5ZuzwW?download
+#EXTINF:-1 tvg-id="Dabangg_2_2012" tvg-name="Dabangg 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI5YmQ4NDEtNDU0Zi00N2EzLWExYjAtY2E1YmZkOTgxYmIyXkEyXkFqcGc@._V1_.jpg" group-title="Action | Comedy | Crime" tvg-shift="Salman Khan, Sonakshi Sinha, Arbaaz Khan, Prakash Raj" imdb-rating="4.8",Dabangg 2
+https://pixeldrain.dev/api/file/Cy6sVujg?download
+#EXTINF:-1 tvg-id="The_Taj_Story_2025" tvg-name="The Taj Story" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFkNzcxNjMtZGM3Mi00ODg0LWI4NzgtNDJkZDhhY2RhN2Q4XkEyXkFqcGc@._V1_.jpg" group-title="Drama | History" tvg-shift="Naseeruddin Shah, Triptii Dimri, Taapsee Pannu" imdb-rating="N/A",The Taj Story
+https://pixeldrain.dev/api/file/WCujPctb?download
+#EXTINF:-1 tvg-id="Jai_Ho_2014" tvg-name="Jai Ho" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNjk1MTk4NF5BMl5BanBnXkFtZTgwNDY3MzM3MDE@._V1_.jpg" group-title="Action | Drama" tvg-shift="Salman Khan, Tabu, Daisy Shah, Danny Denzongpa" imdb-rating="5.1",Jai Ho
+https://pixeldrain.dev/api/file/ExwNxTC5?download
+#EXTINF:-1 tvg-id="Jolly_L.L.B_3_2025" tvg-name="Jolly L.L.B 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU1Nzc1NjQtMjk5OC00YzFiLThkNjMtMTUwZDY2MWM0NjNiXkEyXkFqcGc@._V1_.jpg" group-title="Comedy | Drama" tvg-shift="Akshay Kumar, Arshad Warsi, Huma Qureshi, Saurabh Shukla" imdb-rating="N/A",Jolly L.L.B 3
+https://pixeldrain.dev/api/file/KnojiR12?download
