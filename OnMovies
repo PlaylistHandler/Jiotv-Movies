@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Ek_deewane_ki_dewaaniyat" tvg-name="Ek deewane ki deewaniyat",Ek deewane ki deewaniyat 
+https://pixeldrain.dev/api/file/gGqwM24z
 #EXTINF:-1 tvg-id="Awarapan_2007" tvg-name="Awarapan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU1MTk3NGItYjg3Mi00ODg1LTliOTgtNjUzM2UzMGY4MjQyXkEyXkFqcGc@._V1_.jpg" group-title="Action | Crime | Drama" tvg-shift="Emraan Hashmi, Shriya Saran" imdb-rating="8.0",Awarapan
 https://pixeldrain.dev/api/file/52Bb3pR1
 #EXTINF:-1 tvg-id="Singham_2011" tvg-name="Singham" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YzcyOTItYzYwMy00YjM5LTkyZjQtYzgzOTVlOTIyYjk4XkEyXkFqcGc@._V1_.jpg" group-title="Action | Drama" tvg-shift="Ajay Devgn, Kajal Aggarwal, Prakash Raj" imdb-rating="6.7",Singham
