@@ -444,7 +444,7 @@ http://192.168.0.222:5001/live/1093.m3u8
 http://192.168.0.222:5001/live/1094.m3u8
 
 #EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="http://192.168.0.222:5001/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
-http://192.168.0.222:5001/live/1145.m3u8
+http://192.168.0.222:5001/live/1145.m3u8?q=High
 #EXTINF:-1 tvg-id=1170 tvg-name="PTC News" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_News.png" tvg-language="Punjabi" tvg-type="News" group-title="News", PTC News
 http://192.168.0.222:5001/live/1170.m3u8
 #EXTINF:-1 tvg-id=1171 tvg-name="PTC Punjabi" tvg-logo="http://192.168.0.222:5001/jtvimage/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
